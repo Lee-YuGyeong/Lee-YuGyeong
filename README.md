@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## :heartpulse: Me :heartpulse:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:lyg6452620@gmail.com)
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=TV%20Time&logoColor=FFFFFF&link=https://e-you.tistory.com/)](https://e-you.tistory.com/)
- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/lyg6452620)](https://www.youtube.com/c/lyg6452620)
+ [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/lyg6452620)](https://www.youtube.com/lyg6452620)
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=Soft&color=F8E2CF&height=70&section=footer&fontSize=90&animation=scaleIn&fontColor=FFFFFF)
