@@ -39,4 +39,4 @@ Here are some ideas to get you started:
  
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=Soft&color=F1E1A6&height=50&section=footer&fontSize=90&animation=scaleIn&fontColor=FFFFFF)
+![footer](https://capsule-render.vercel.app/api?type=Soft&color=F4BBBB&height=50&section=footer&fontSize=90&animation=scaleIn&fontColor=FFFFFF)
