@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-</br>
+
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=F8E2CF&height=150&section=footer&fontSize=90&animation=scaleIn&fontColor=FFFFFF)
