@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-## :heartpulse: Tech Stack :heartpulse:
+### :heartpulse: Tech Stack :heartpulse:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=FFFFFF)]()
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <br />
  
-## :heartpulse: Me :heartpulse:
+### :heartpulse: Me :heartpulse:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyg6452620@gmail.com)](mailto:lyg6452620@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=TV%20Time&logoColor=FFFFFF&link=https://e-you.tistory.com/)](https://e-you.tistory.com/)
  
