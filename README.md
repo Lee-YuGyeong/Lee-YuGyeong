@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <p align="center">
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-YuGyeong&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-YuGyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </p>
+
  
 ### :heartpulse: Tech Stack :heartpulse:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)]()
