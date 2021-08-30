@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=300&section=header&text=Hi,%20l'm%20YuGyeong!%20&fontColor=000000&rotate=0)
 
 <div align="center">
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-YuGyeong&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-YuGyeong&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-YuGyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+ </p>
+ 
 ### :heartpulse: Tech Stack :heartpulse:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF)]()
