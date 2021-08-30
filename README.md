@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=&height=250&section=header&text=YuGyeong&fontSize=70&animation=scaleIn&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=F4BBBB&height=250&section=header&text=Hi!%20l'm%20YuGyeong&fontSize=35&fontColor=FFFFFF&rotate=0&fontAlign=80)
 
 <div align="center">
 
@@ -29,10 +29,14 @@ Here are some ideas to get you started:
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF)]()
 
+<br />
+ 
 ## :heartpulse: Me :heartpulse:
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:lyg6452620@gmail.com)
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=TV%20Time&logoColor=FFFFFF&link=https://e-you.tistory.com/)](https://e-you.tistory.com/)
- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/lyg6452620)](https://www.youtube.com/lyg6452620)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyg6452620@gmail.com)](mailto:lyg6452620@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=TV%20Time&logoColor=FFFFFF&link=https://e-you.tistory.com/)](https://e-you.tistory.com/)
+ 
+<br />
+ 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=Soft&color=F8E2CF&height=70&section=footer&fontSize=90&animation=scaleIn&fontColor=FFFFFF)
+![footer](https://capsule-render.vercel.app/api?type=Soft&color=F1E1A6&height=70&section=footer&fontSize=90&animation=scaleIn&fontColor=FFFFFF)
