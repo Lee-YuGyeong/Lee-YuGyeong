@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### :heartpulse: Tech Stack :heartpulse:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF)]()
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=FFFFFF)]()
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=FFFFFF)]()
