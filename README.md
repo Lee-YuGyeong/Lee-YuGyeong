@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=300&section=header&text=Hi,%20l'm%20YuGyeong!%20&fontColor=000000&rotate=0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=300&section=header&text=Hi,%20l'm%20YuGyeong!%20&fontColor=3E3C3C&rotate=0)
 
 <div align="center">
 <p align="center">
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-YuGyeong&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
  
-### :heartpulse: Tech Stack :heartpulse:
+### :wrench: Tech Stack  :wrench:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF)]()
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <br />
  
-### :heartpulse: Me :heartpulse:
+### :cake: Me  :cake:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyg6452620@gmail.com)](mailto:lyg6452620@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=TV%20Time&logoColor=FFFFFF&link=https://e-you.tistory.com/)](https://e-you.tistory.com/)
  
