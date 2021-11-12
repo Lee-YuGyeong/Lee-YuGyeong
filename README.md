@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=300&section=header&text=Hi,%20l'm%20YuGyeong!%20&fontColor=3E3C3C&rotate=0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=250&section=header&text=Hi,%20l'm%20YuGyeong!%20&fontColor=3E3C3C&rotate=0&fontSize=60)
 
 <div align="center">
 <p align="center">
@@ -46,3 +46,5 @@ Here are some ideas to get you started:
  
 </div>
 
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FFD159)
