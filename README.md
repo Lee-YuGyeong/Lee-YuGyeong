@@ -20,9 +20,13 @@ Here are some ideas to get you started:
 <div align="center">
 <p align="center">
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-YuGyeong&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-YuGyeong&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
  
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyg6452)](https://solved.ac/lyg6452/)
+<br />
+ <br />
 ### :wrench: Tech Stack  :wrench:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF)]()
