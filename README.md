@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=250&section=header&text=Hi,%20l'm%20YuGyeong!%20&fontColor=3E3C3C&rotate=0&fontSize=60)
 
+
 <div align="center">
 <p align="center">
  
