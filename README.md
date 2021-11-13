@@ -25,8 +25,12 @@ Here are some ideas to get you started:
  
  
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyg6452)](https://solved.ac/lyg6452/) -->
+ 
+ 
 <br />
  <br />
+ 
+ 
 ### :wrench: Tech Stack  :wrench:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF)]()
