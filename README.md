@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-YuGyeong&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
  
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyg6452)](https://solved.ac/lyg6452/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyg6452)](https://solved.ac/lyg6452/) -->
 <br />
  <br />
 ### :wrench: Tech Stack  :wrench:
