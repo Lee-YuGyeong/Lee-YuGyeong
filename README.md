@@ -22,17 +22,9 @@ Here are some ideas to get you started:
 <p align="center">
  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-YuGyeong&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
  
  
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyg6452)](https://solved.ac/lyg6452/) -->
- 
- 
-<br />
- <br />
- 
- 
-### :wrench: Tech Stack  :wrench:
+### 🛠 Tech Stack  🛠
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF)]()
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -40,6 +32,7 @@ Here are some ideas to get you started:
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=FFFFFF)]()
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=FFFFFF)]()
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2b%2b&logoColor=ffffff)
+<br />
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF)]()
@@ -52,7 +45,10 @@ Here are some ideas to get you started:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=TV%20Time&logoColor=FFFFFF&link=https://e-you.tistory.com/)](https://e-you.tistory.com/)
  
 <br />
- 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-YuGyeong&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyg6452)](https://solved.ac/lyg6452/)
+
 </div>
 
 
