@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-YuGyeong&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=250&section=header&text=Hi,%20l'm%20YuGyeong!%20&fontColor=3E3C3C&rotate=0&fontSize=60)
@@ -46,7 +49,6 @@ Here are some ideas to get you started:
  
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-YuGyeong&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyg6452)](https://solved.ac/lyg6452/)
 
 </div>
