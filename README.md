@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <div align="center">
 <p align="center">
  
-### :cake: Me  :cake:
+### ✨ Me ✨
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyg6452620@gmail.com)](mailto:lyg6452620@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=TV%20Time&logoColor=FFFFFF&link=https://e-you.tistory.com/)](https://e-you.tistory.com/)
  
